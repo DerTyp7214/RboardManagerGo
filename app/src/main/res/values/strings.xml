@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RboardManager Go</string>
+    <string name="no_root">This app only works with Root!</string>
+    <string name="ok">OK</string>
+    <string name="share_themes">Share themes</string>
+    <string name="need_reboot_title">Reboot device?</string>
+    <string name="need_reboot">To make this app work properly, you have to reboot your phone.</string>
+    <string name="later">later</string>
+    <string name="restart">Restart</string>
+    <string name="delete_theme_confirm">Do you want to delete this theme?</string>
+    <string name="yes">Yes</string>
+    <string name="theme_deleted">Theme Deleted</string>
+    <string name="error">There was an Error!</string>
+    <string name="no">No</string>
+    <string name="applied">Theme Applied</string>
+</resources>
